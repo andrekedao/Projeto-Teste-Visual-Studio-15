@@ -1,0 +1,144 @@
+C:\Users\Evandro\Dropbox\FACULDADE 6 TERMO\LINGUAGEM WEB III\Drugovich\Drugovich\bin\roslyn\csc.exe
+C:\Users\Evandro\Dropbox\FACULDADE 6 TERMO\LINGUAGEM WEB III\Drugovich\Drugovich\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Evandro\Dropbox\FACULDADE 6 TERMO\LINGUAGEM WEB III\Drugovich\Drugovich\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Evandro\Dropbox\FACULDADE 6 TERMO\LINGUAGEM WEB III\Drugovich\Drugovich\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Evandro\Dropbox\FACULDADE 6 TERMO\LINGUAGEM WEB III\Drugovich\Drugovich\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Evandro\Dropbox\FACULDADE 6 TERMO\LINGUAGEM WEB III\Drugovich\Drugovich\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Evandro\Dropbox\FACULDADE 6 TERMO\LINGUAGEM WEB III\Drugovich\Drugovich\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Evandro\Dropbox\FACULDADE 6 TERMO\LINGUAGEM WEB III\Drugovich\Drugovich\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Evandro\Dropbox\FACULDADE 6 TERMO\LINGUAGEM WEB III\Drugovich\Drugovich\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Evandro\Dropbox\FACULDADE 6 TERMO\LINGUAGEM WEB III\Drugovich\Drugovich\bin\roslyn\vbc.exe
+C:\Users\Evandro\Dropbox\FACULDADE 6 TERMO\LINGUAGEM WEB III\Drugovich\Drugovich\bin\roslyn\VBCSCompiler.exe
+C:\Users\Evandro\Dropbox\FACULDADE 6 TERMO\LINGUAGEM WEB III\Drugovich\Drugovich\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Evandro\Dropbox\FACULDADE 6 TERMO\LINGUAGEM WEB III\Drugovich\Drugovich\bin\Drugovich.dll.config
+C:\Users\Evandro\Dropbox\FACULDADE 6 TERMO\LINGUAGEM WEB III\Drugovich\Drugovich\bin\Drugovich.dll
+C:\Users\Evandro\Dropbox\FACULDADE 6 TERMO\LINGUAGEM WEB III\Drugovich\Drugovich\bin\Drugovich.pdb
+C:\Users\Evandro\Dropbox\FACULDADE 6 TERMO\LINGUAGEM WEB III\Drugovich\Drugovich\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Evandro\Dropbox\FACULDADE 6 TERMO\LINGUAGEM WEB III\Drugovich\Drugovich\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Evandro\Dropbox\FACULDADE 6 TERMO\LINGUAGEM WEB III\Drugovich\Drugovich\bin\System.Web.Helpers.dll
+C:\Users\Evandro\Dropbox\FACULDADE 6 TERMO\LINGUAGEM WEB III\Drugovich\Drugovich\bin\System.Web.Mvc.dll
+C:\Users\Evandro\Dropbox\FACULDADE 6 TERMO\LINGUAGEM WEB III\Drugovich\Drugovich\bin\System.Web.Razor.dll
+C:\Users\Evandro\Dropbox\FACULDADE 6 TERMO\LINGUAGEM WEB III\Drugovich\Drugovich\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Evandro\Dropbox\FACULDADE 6 TERMO\LINGUAGEM WEB III\Drugovich\Drugovich\bin\System.Web.Webpages.dll
+C:\Users\Evandro\Dropbox\FACULDADE 6 TERMO\LINGUAGEM WEB III\Drugovich\Drugovich\bin\System.Web.Webpages.Razor.dll
+C:\Users\Evandro\Dropbox\FACULDADE 6 TERMO\LINGUAGEM WEB III\Drugovich\Drugovich\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Evandro\Dropbox\FACULDADE 6 TERMO\LINGUAGEM WEB III\Drugovich\Drugovich\bin\System.Web.Razor.xml
+C:\Users\Evandro\Dropbox\FACULDADE 6 TERMO\LINGUAGEM WEB III\Drugovich\Drugovich\bin\System.Web.Webpages.xml
+C:\Users\Evandro\Dropbox\FACULDADE 6 TERMO\LINGUAGEM WEB III\Drugovich\Drugovich\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Evandro\Dropbox\FACULDADE 6 TERMO\LINGUAGEM WEB III\Drugovich\Drugovich\bin\System.Web.Webpages.Razor.xml
+C:\Users\Evandro\Dropbox\FACULDADE 6 TERMO\LINGUAGEM WEB III\Drugovich\Drugovich\bin\System.Web.Helpers.xml
+C:\Users\Evandro\Dropbox\FACULDADE 6 TERMO\LINGUAGEM WEB III\Drugovich\Drugovich\bin\System.Web.Mvc.xml
+C:\Users\Evandro\Dropbox\FACULDADE 6 TERMO\LINGUAGEM WEB III\Drugovich\Drugovich\obj\Debug\Drugovich.csprojResolveAssemblyReference.cache
+C:\Users\Evandro\Dropbox\FACULDADE 6 TERMO\LINGUAGEM WEB III\Drugovich\Drugovich\obj\Debug\Drugovich.dll
+C:\Users\Evandro\Dropbox\FACULDADE 6 TERMO\LINGUAGEM WEB III\Drugovich\Drugovich\obj\Debug\Drugovich.pdb
+F:\Drugovich\Drugovich\bin\roslyn\csc.exe
+F:\Drugovich\Drugovich\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Drugovich\Drugovich\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Drugovich\Drugovich\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Drugovich\Drugovich\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Drugovich\Drugovich\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Drugovich\Drugovich\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Drugovich\Drugovich\bin\roslyn\System.Collections.Immutable.dll
+F:\Drugovich\Drugovich\bin\roslyn\System.Reflection.Metadata.dll
+F:\Drugovich\Drugovich\bin\roslyn\vbc.exe
+F:\Drugovich\Drugovich\bin\roslyn\VBCSCompiler.exe
+F:\Drugovich\Drugovich\bin\roslyn\VBCSCompiler.exe.config
+F:\Drugovich\Drugovich\bin\Drugovich.dll.config
+F:\Drugovich\Drugovich\bin\Drugovich.dll
+F:\Drugovich\Drugovich\bin\Drugovich.pdb
+F:\Drugovich\Drugovich\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Drugovich\Drugovich\bin\Microsoft.Web.Infrastructure.dll
+F:\Drugovich\Drugovich\bin\System.Web.Helpers.dll
+F:\Drugovich\Drugovich\bin\System.Web.Mvc.dll
+F:\Drugovich\Drugovich\bin\System.Web.Razor.dll
+F:\Drugovich\Drugovich\bin\System.Web.Webpages.Deployment.dll
+F:\Drugovich\Drugovich\bin\System.Web.Webpages.dll
+F:\Drugovich\Drugovich\bin\System.Web.Webpages.Razor.dll
+F:\Drugovich\Drugovich\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Drugovich\Drugovich\bin\System.Web.Razor.xml
+F:\Drugovich\Drugovich\bin\System.Web.Webpages.xml
+F:\Drugovich\Drugovich\bin\System.Web.Webpages.Deployment.xml
+F:\Drugovich\Drugovich\bin\System.Web.Webpages.Razor.xml
+F:\Drugovich\Drugovich\bin\System.Web.Helpers.xml
+F:\Drugovich\Drugovich\bin\System.Web.Mvc.xml
+F:\Drugovich\Drugovich\obj\Debug\Drugovich.csprojResolveAssemblyReference.cache
+F:\Drugovich\Drugovich\obj\Debug\Drugovich.dll
+F:\Drugovich\Drugovich\obj\Debug\Drugovich.pdb
+F:\Drugovich\Drugovich\bin\EntityFramework.dll
+F:\Drugovich\Drugovich\bin\EntityFramework.SqlServer.dll
+F:\Drugovich\Drugovich\bin\EntityFramework.xml
+F:\Drugovich\Drugovich\bin\EntityFramework.SqlServer.xml
+E:\Drugovich\Drugovich\bin\roslyn\csc.exe
+E:\Drugovich\Drugovich\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Drugovich\Drugovich\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Drugovich\Drugovich\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Drugovich\Drugovich\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Drugovich\Drugovich\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Drugovich\Drugovich\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Drugovich\Drugovich\bin\roslyn\System.Collections.Immutable.dll
+E:\Drugovich\Drugovich\bin\roslyn\System.Reflection.Metadata.dll
+E:\Drugovich\Drugovich\bin\roslyn\vbc.exe
+E:\Drugovich\Drugovich\bin\roslyn\VBCSCompiler.exe
+E:\Drugovich\Drugovich\bin\roslyn\VBCSCompiler.exe.config
+E:\Drugovich\Drugovich\bin\Drugovich.dll.config
+E:\Drugovich\Drugovich\bin\Drugovich.dll
+E:\Drugovich\Drugovich\bin\Drugovich.pdb
+E:\Drugovich\Drugovich\bin\EntityFramework.dll
+E:\Drugovich\Drugovich\bin\EntityFramework.SqlServer.dll
+E:\Drugovich\Drugovich\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Drugovich\Drugovich\bin\Microsoft.Web.Infrastructure.dll
+E:\Drugovich\Drugovich\bin\System.Web.Helpers.dll
+E:\Drugovich\Drugovich\bin\System.Web.Mvc.dll
+E:\Drugovich\Drugovich\bin\System.Web.Razor.dll
+E:\Drugovich\Drugovich\bin\System.Web.Webpages.Deployment.dll
+E:\Drugovich\Drugovich\bin\System.Web.Webpages.dll
+E:\Drugovich\Drugovich\bin\System.Web.Webpages.Razor.dll
+E:\Drugovich\Drugovich\bin\EntityFramework.xml
+E:\Drugovich\Drugovich\bin\EntityFramework.SqlServer.xml
+E:\Drugovich\Drugovich\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Drugovich\Drugovich\bin\System.Web.Razor.xml
+E:\Drugovich\Drugovich\bin\System.Web.Webpages.xml
+E:\Drugovich\Drugovich\bin\System.Web.Webpages.Deployment.xml
+E:\Drugovich\Drugovich\bin\System.Web.Webpages.Razor.xml
+E:\Drugovich\Drugovich\bin\System.Web.Helpers.xml
+E:\Drugovich\Drugovich\bin\System.Web.Mvc.xml
+E:\Drugovich\Drugovich\obj\Debug\Drugovich.csprojResolveAssemblyReference.cache
+E:\Drugovich\Drugovich\obj\Debug\Drugovich.dll
+E:\Drugovich\Drugovich\obj\Debug\Drugovich.pdb
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Drugovich\Drugovich\bin\roslyn\csc.exe
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Drugovich\Drugovich\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Drugovich\Drugovich\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Drugovich\Drugovich\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Drugovich\Drugovich\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Drugovich\Drugovich\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Drugovich\Drugovich\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Drugovich\Drugovich\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Drugovich\Drugovich\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Drugovich\Drugovich\bin\roslyn\vbc.exe
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Drugovich\Drugovich\bin\roslyn\VBCSCompiler.exe
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Drugovich\Drugovich\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Drugovich\Drugovich\bin\Drugovich.dll.config
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Drugovich\Drugovich\bin\Drugovich.dll
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Drugovich\Drugovich\bin\Drugovich.pdb
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Drugovich\Drugovich\bin\EntityFramework.dll
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Drugovich\Drugovich\bin\EntityFramework.SqlServer.dll
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Drugovich\Drugovich\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Drugovich\Drugovich\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Drugovich\Drugovich\bin\System.Web.Helpers.dll
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Drugovich\Drugovich\bin\System.Web.Mvc.dll
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Drugovich\Drugovich\bin\System.Web.Razor.dll
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Drugovich\Drugovich\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Drugovich\Drugovich\bin\System.Web.Webpages.dll
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Drugovich\Drugovich\bin\System.Web.Webpages.Razor.dll
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Drugovich\Drugovich\bin\EntityFramework.xml
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Drugovich\Drugovich\bin\EntityFramework.SqlServer.xml
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Drugovich\Drugovich\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Drugovich\Drugovich\bin\System.Web.Razor.xml
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Drugovich\Drugovich\bin\System.Web.Webpages.xml
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Drugovich\Drugovich\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Drugovich\Drugovich\bin\System.Web.Webpages.Razor.xml
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Drugovich\Drugovich\bin\System.Web.Helpers.xml
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Drugovich\Drugovich\bin\System.Web.Mvc.xml
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Drugovich\Drugovich\obj\Debug\Drugovich.csprojResolveAssemblyReference.cache
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Drugovich\Drugovich\obj\Debug\Drugovich.dll
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Drugovich\Drugovich\obj\Debug\Drugovich.pdb
